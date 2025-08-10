@@ -307,8 +307,11 @@ python -m pytest tests/
 
 ## License
 
-This project is open source and available under the Apache License 2.0.
-See the [LICENSE](LICENSE) file for details.
+For licensing information, please contact Sreeram Lagisetty.
+
+- **Email**: [sreeram.lagisetty@gmail.com](mailto:sreeram.lagisetty@gmail.com)
+- **GitHub**: [Sreeram5678](https://github.com/Sreeram5678)
+- **Instagram**: [@sreeram_3012](https://www.instagram.com/sreeram_3012?igsh=N2Fub3A5eWF4cjJs&utm_source=qr)
 
 ## Acknowledgments
 

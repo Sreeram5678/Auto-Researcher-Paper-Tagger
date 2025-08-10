@@ -30,4 +30,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Customizable category definitions
 - Comprehensive documentation
 - Test suite
-- Apache 2.0 License
+- Contact Sreeram for licensing
