@@ -307,8 +307,8 @@ python -m pytest tests/
 
 ## License
 
-This project is proprietary software owned by Sreeram Lagisetty. 
-All rights reserved. Commercial use requires explicit written permission.
+This project is open source and available under the Apache License 2.0.
+See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
