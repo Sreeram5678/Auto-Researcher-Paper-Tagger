@@ -1,0 +1,26 @@
+# PDF processing
+PyPDF2>=3.0.1
+pdfplumber>=0.10.0
+pymupdf>=1.23.0
+
+# Natural Language Processing
+scikit-learn>=1.3.0
+nltk>=3.8.0
+spacy>=3.7.0
+transformers>=4.30.0
+torch>=2.0.0
+
+# Text processing and analysis
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Progress tracking
+tqdm>=4.65.0
+
+# Configuration and file handling
+pyyaml>=6.0.0
+click>=8.1.0
+
+# Additional utilities
+regex>=2023.0.0
